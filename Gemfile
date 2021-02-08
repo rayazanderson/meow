@@ -73,6 +73,6 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'will_paginate', '~> 3.1.0'
 gem 'devise'
 gem "font-awesome-rails"
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'figaro'
 gem "fog-aws"
